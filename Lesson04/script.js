@@ -5,5 +5,5 @@ function numberMultiplier(){
 
 	result = (x * x) * (y * y);
 
-	alert(x+ "*"+  x+ "*"+ "("+ y+ "*"+ y+ ")"+ "="+ result); 
+	alert(x + "*" +  x + "*" + "(" + y + "*" + y + ")" + "=" + result); 
 }
